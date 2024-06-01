@@ -1,6 +1,10 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¥™l8å‹³Õü1J$b123ba57-aea4-4b5f-8d38-42cf6cf597c2
-Š
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ÑËÔ‰üÿÿÿÿ8³—½Õü1J$2c993b80-ef49-4e5f-bd0b-f76957250bb4
-…
-java:S2094"BRemove this empty class, write its code or make it an "interface".(·í¨ß8ñ¿êÔü1J$70b3b5ac-b253-449f-8c45-e9da13d8f9e8
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¥™l8™î˜©ı1J$aff54807-227d-4264-8dd3-cad1b3929034
+|
+java:S3516^"9Refactor this method to not always return the same value.(‘‘ñ—8‘Ÿñ«ı1J$aca8fccc-0c63-471b-9418-b008b3aedde2
+|
+java:S1854~":Remove this useless assignment to local variable "oldVal".(òËW8¯Ÿñ«ı1J$a7544a56-2cf3-48d3-8afd-085c51e7bf82
+›
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ë’µúÿÿÿÿ8¾Ÿñ«ı1J$1e9f9ac6-6285-4f00-aea1-d120c6b017a2
+
+java:S1068"7Remove this unused "DEFAULT_LOAD_FACTOR" private field.(ü›ĞÜüÿÿÿÿ8 î˜©ı1J$60cb65c7-9367-4db5-9aac-5f74c1036a6f
