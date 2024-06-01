@@ -1,0 +1,17 @@
+
+	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$d8076240-987b-4ff1-8804-85832d5937d7
+	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$5a5379c1-6dfe-48b7-abf5-117391c2cb17
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$b67d0d17-4535-4f63-b529-674f8a3c4ac3
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$adcee08e-0c7d-4644-bc2a-0f8bb0824fbd
+s
+java:S3740¹"/Provide the parametrized type for this generic.(æ¬¼×8¢€‚û1J$06d2edef-ee26-43b8-94e7-ead75f07b579
+s
+java:S3740¹"/Provide the parametrized type for this generic.(æ¬¼×8¢€‚û1J$0f9da7b1-fc8c-4b92-ad67-1d3777b985f6
+“
+java:S1192I"KDefine a constant instead of duplicating this literal "Empty List" 4 times.(£ªˆàùÿÿÿÿ8Ÿ¢€‚û1J$dd4bbacd-7375-4503-ab01-3d200b7c2805
+{
+java:S1854t"8Remove this useless assignment to local variable "node".(¤³çæ8Æ¢€‚û1J$03b9876e-4bf7-43db-aaee-1f31eac2fe05
+ˆ
+java:S1854¹"DRemove this useless assignment to local variable "doublyLinkedList".(æ¬¼×8Í¢€‚û1J$00ce68bc-24a9-49e1-8ae8-c8a44d6d4400
+y
+java:S1481¹"5Remove this unused "doublyLinkedList" local variable.(æ¬¼×8Î¢€‚û1J$6b6be4fc-b4c9-491b-abd4-31f8d457bdef

@@ -1,0 +1,7 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ήϋΖ§8ή›ιχό1J$9cb182fc-64d8-436e-a9af-320314ca11a6
+l	java:S106A"+Replace this use of System.out by a logger.(’ςΔK8ν›ιχό1J$cac0bad8-476c-45a8-88da-f57cf96006d3
+r	java:S106G"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8ν›ιχό1J$2c54e0d4-e830-4dcd-87e9-5a13b4d804af
+r	java:S106J"+Replace this use of System.out by a logger.(ι—Εψÿÿÿÿ8ν›ιχό1J$a4135b8a-eace-4e6a-9f7f-0a664b7e70e8
+t
+java:S1128"1Remove this unused import 'org.w3c.dom.NodeList'.(ΒΘΓ‚8…ΰιχό1J$7c0cb2f1-c4a2-4292-a8f6-48a6a3ddbd95

@@ -1,0 +1,18 @@
+
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø‰Ïúÿÿÿÿ8¦¯×ı1J$8c145e93-9ce1-4f98-8a73-afae2d972e68
+Ä
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎÇã¶8¦¯×ı1J$df9d7ecc-52a5-42ef-97f7-eb34448f3809
+t
+java:S1172.",Remove this unused method parameter "value".(¼—Áµıÿÿÿÿ8ª¯×ı1J$204b6e78-6538-44f6-a245-ace1f8469006
+„
+java:S1854G"<Remove this useless assignment to local variable "indexOf2".(øİĞûÿÿÿÿ8ª¯×ı1J$8703828e-c81d-4f16-af2a-9c086332ebb0
+
+java:S1854F"9Remove this useless assignment to local variable "array".( “Íªúÿÿÿÿ8ª¯×ı1J$18056085-bc94-4c36-83ae-6f43865f0303
+r
+java:S1481F"*Remove this unused "array" local variable.( “Íªúÿÿÿÿ8«¯×ı1J$b91de758-8d74-4af1-a2d2-6c6cf49f8568
+u
+java:S1481G"-Remove this unused "indexOf2" local variable.(øİĞûÿÿÿÿ8«¯×ı1J$04511e77-e530-4311-8156-8a42fb1dec01
+m	java:S106I"+Replace this use of System.out by a logger.(Ù³•Ğ8«¯×ı1J$2a2035e4-df01-4755-b073-833d22c22e82
+m	java:S106J"+Replace this use of System.out by a logger.(êğ¦¹8«¯×ı1J$214f0cde-ba72-49c2-ae0b-483b502096d7
+m	java:S106K"+Replace this use of System.out by a logger.(Êãï—8«¯×ı1J$c934de21-0f8f-407e-80ec-6da5adcbb016

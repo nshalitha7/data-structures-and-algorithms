@@ -1,0 +1,14 @@
+
+	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$2d1932b6-6575-4897-b89b-dbaf944b145d
+	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$83353ff2-e616-4c95-8880-e0c68b7a348f
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$12095d9c-bfc3-487e-8525-5bf01b23439f
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(£ªˆàùÿÿÿÿ8¢€‚û1J$788bf79f-120b-4143-a1d1-a26982e0c42d
+“
+java:S1192I"KDefine a constant instead of duplicating this literal "Empty List" 4 times.(£ªˆàùÿÿÿÿ8Ÿ¢€‚û1J$132351d4-1fa9-4852-97a6-88e3aac1d026
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üöª¡8Ï¦©éü1J$c25d581c-e6aa-4dd0-83ca-0894a01bd937
+{
+java:S1854t"8Remove this useless assignment to local variable "node".(¤³çæ8Æ¢€‚û1J$ec80a1f1-0f75-4305-9547-d2837a5b4312
+
+java:S1854¹"DRemove this useless assignment to local variable "doublyLinkedList".(Ä×¼½üÿÿÿÿ8 õÀéü1J$b4137fc1-d9a1-429b-95b8-847dffc8b5f9
+~
+java:S1481¹"5Remove this unused "doublyLinkedList" local variable.(Ä×¼½üÿÿÿÿ8£õÀéü1J$59c001a3-b691-423c-bfd0-9c8e1ea8303e
